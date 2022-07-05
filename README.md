@@ -1,4 +1,4 @@
-<img src="./images/logo.sample.png" alt="Logo of the project" align="right">
+<img src="./images/Spotify_Logo_RGB_Green 3.png" alt="Logo of the project" align="right">
 
 # Spotify Data Analysis &middot;
 > Analysing Spotify Data using powerBi
