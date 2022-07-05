@@ -15,6 +15,19 @@ The dataset taken from the kaggle is loaded to the powerbi where with the help o
 * Popularity Analysis - This button navigates to the popularity analysis page.
 * Statistical Analysis - This button navigates to the statistical page.
 
+## Popularity Analysis
+<img src="./Dashboard Images/sp2.png"  align="center">
+
+## Statistical Analysis
+<img src="./Dashboard Images/sp3.png"  align="center">
+
+## Arist wise drill down page
+<img src="./Dashboard Images/sp4.png"  align="center">
+
+## Genre wise drill down page
+<img src="./Dashboard Images/sp5.png"  align="center">
+
+
 List main libraries, frameworks used including versions (React, Angular etc...)
 
 ### Prerequisites
