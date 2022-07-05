@@ -10,8 +10,11 @@ Analysing the spotify dataset which was taken from kaggle with the help of power
 The dataset taken from the kaggle is loaded to the powerbi where with the help of power query the data is cleaned and transformed as per our need. 
 
 ## Home Page
+<img src="./Dashboard Images/sp1.png"  align="center">
 
-### Built With
+* Popularity Analysis - This button navigates to the popularity analysis page.
+* Statistical Analysis - This button navigates to the statistical page.
+
 List main libraries, frameworks used including versions (React, Angular etc...)
 
 ### Prerequisites
@@ -23,11 +26,7 @@ What is needed to set up the dev environment. For instance, global dependencies 
 Here's a brief intro about what a developer must do in order to start developing
 the project further:
 
-```shell
-git clone https://github.com/your/your-project.git
-cd your-project/
-packagemanager install
-```
+
 
 And state what happens step-by-step. If there is any virtual environment, local server or database feeder needed, explain here.
 
